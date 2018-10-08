@@ -21,4 +21,4 @@ string within the vector to form a final single string and assigning it the obje
     txt2 <- paste(paste0(" -"),txt1,collapse = "")
     txt2
     
-    
+ ![](assignment%204.2.PNG)
