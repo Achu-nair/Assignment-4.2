@@ -18,7 +18,7 @@ string within the vector to form a final single string and assigning it the obje
     txt1
 
     #append string with "-" and concatenate strings to form a single string
-    txt2 <- paste(paste0(" -"),txt1,collapse = "")
+    txt2 <- paste(paste0(" -"),x,collapse = "")
     txt2
     
  ![](assignment%204.2.PNG)
