@@ -7,18 +7,12 @@ Perform the below string Operation:
 • Append again with “-“ minus sign character at the start of the each string and finally concatenate all the
 string within the vector to form a final single string and assigning it the object.
 
-    #ASSIGNMENT 4.2
+code:
 
-    #Define object
-    x <- c("data.science.in.R", "machine.learning.in.R")
-    x
-
-    #replace "." with "-"
-    txt1 <- gsub("[.]","-",x)
-    txt1
-
-    #append string with "-" and concatenate strings to form a single string
-    txt2 <- paste(paste0(" -"),x,collapse = "")
-    txt2
+![](assg4_2_solution.PNG)
     
+    
+ solution:
+ 
+ 
  ![](assignment%204.2.PNG)
